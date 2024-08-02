@@ -10,8 +10,8 @@ PDF识别重命名工具 (PDFRenamer) 是一个用于处理 PDF 文件、提取�
 ## 安装
 1. 克隆或下载此项目到本地：
 ```angular2html
-git clone https://github.com/yourusername/OrderPDFRenamer.git
-cd OrderPDFRenamer
+git clone https://github.com/BarryAlllen/PDFRenamer.git
+cd PDFRenamer
 ```
 2. 安装所需的 Python 库：
 ```angular2html
